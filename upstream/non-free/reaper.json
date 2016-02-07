@@ -1,0 +1,12 @@
+{
+  "5.12": {
+    "date": "2016-01-21",
+    "bins": [
+      "http://reaper.fm/files/5.x/reaper512-install.exe",
+      "http://reaper.fm/files/5.x/reaper512_x64-install.exe",
+      "http://reaper.fm/files/5.x/reaper512_i386.dmg",
+      "http://reaper.fm/files/5.x/reaper512_x86_64.dmg"
+    ],
+    "changelog": "http://reaper.fm/whatsnew.txt"
+  }
+}
