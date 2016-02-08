@@ -1,9 +1,9 @@
 {
-  "4.5-rc2": {
-    "date": "2016-02-01",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.5-rc2.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.5-rc2.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.5-rc2",
+  "4.5-rc3": {
+    "date": "2016-02-07",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.5-rc3.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.5-rc3.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.5-rc3",
     "stable": false
   },
   "4.4.1": {
