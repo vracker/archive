@@ -1,0 +1,9 @@
+{
+  "2.26": {
+    "date": "2016-01-25",
+    "src": "http://ftp.gnu.org/gnu/binutils/binutils-2.26.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/binutils/binutils-2.26.tar.gz.sig",
+    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=binutils/NEWS;hb=refs/tags/binutils-2_26",
+    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/binutils-2_26"
+  }
+}
