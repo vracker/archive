@@ -1,0 +1,9 @@
+{
+  "7.10.1": {
+    "date": "2015-12-05",
+    "src": "http://ftp.gnu.org/gnu/gdb/gdb-7.10.1.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/gdb/gdb-7.10.1.tar.xz.sig",
+    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=gdb/NEWS;hb=refs/tags/gdb-7.10.1-release",
+    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/gdb-7.10.1-release"
+  }
+}
