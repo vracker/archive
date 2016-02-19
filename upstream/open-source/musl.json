@@ -1,0 +1,9 @@
+{
+  "1.1.13": {
+    "date": "2016-02-15",
+    "src": "http://www.musl-libc.org/releases/musl-1.1.13.tar.gz",
+    "src_sign": "http://www.musl-libc.org/releases/musl-1.1.13.tar.gz.asc",
+    "relnotes": "http://git.musl-libc.org/cgit/musl/plain/WHATSNEW?h=v1.1.13",
+    "changelog": "http://git.musl-libc.org/cgit/musl/log/?h=v1.1.13"
+  }
+}
