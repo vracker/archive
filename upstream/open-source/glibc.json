@@ -1,0 +1,9 @@
+{
+  "2.23": {
+    "date": "2016-02-19",
+    "src": "http://ftp.gnu.org/gnu/glibc/glibc-2.23.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/glibc/glibc-2.23.tar.xz.sig",
+    "relnotes": "https://sourceware.org/git/?p=glibc.git;a=blob_plain;f=NEWS;hb=refs/tags/glibc-2.23",
+    "changelog": "https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/tags/glibc-2.23"
+  }
+}
