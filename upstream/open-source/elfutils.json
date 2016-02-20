@@ -1,0 +1,9 @@
+{
+  "0.165": {
+    "date": "2016-01-11",
+    "src": "https://fedorahosted.org/releases/e/l/elfutils/0.165/elfutils-0.165.tar.bz2",
+    "src_sign": "https://fedorahosted.org/releases/e/l/elfutils/0.165/elfutils-0.165.tar.bz2.sig",
+    "relnotes": "https://git.fedorahosted.org/cgit/elfutils.git/plain/NEWS?h=elfutils-0.165",
+    "changelog": "https://git.fedorahosted.org/cgit/elfutils.git/log/?h=elfutils-0.165"
+  }
+}
