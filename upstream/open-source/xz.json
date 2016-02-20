@@ -1,0 +1,9 @@
+{
+  "5.2.2": {
+    "date": "2015-09-29",
+    "src": "http://tukaani.org/xz/xz-5.2.2.tar.gz",
+    "src_sign": "http://tukaani.org/xz/xz-5.2.2.tar.gz.sig",
+    "relnotes": "http://git.tukaani.org/?p=xz.git;a=blob_plain;f=NEWS;hb=refs/tags/v5.2.2",
+    "changelog": "http://git.tukaani.org/?p=xz.git;a=shortlog;h=refs/tags/v5.2.2"
+  }
+}
