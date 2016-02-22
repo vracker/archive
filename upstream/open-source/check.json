@@ -1,0 +1,8 @@
+{
+  "0.10.0": {
+    "date": "2015-08-02",
+    "src": "https://github.com/libcheck/check/files/71408/check-0.10.0.tar.gz",
+    "relnotes": "https://raw.githubusercontent.com/libcheck/check/0.10.0/NEWS",
+    "changelog": "https://github.com/libcheck/check/commits/0.10.0"
+  }
+}
