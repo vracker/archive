@@ -1,0 +1,9 @@
+{
+  "1.5.3": {
+    "date": "2015-03-30",
+    "src": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.5.3.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.5.3.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/dejagnu.git/plain/NEWS?id=dejagnu-1.5.3-release",
+    "changelog": "http://git.savannah.gnu.org/cgit/dejagnu.git/log/?id=dejagnu-1.5.3-release"
+  }
+}
