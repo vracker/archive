@@ -1,0 +1,9 @@
+{
+  "6.0": {
+    "date": "2015-08-08",
+    "src": "http://ftp.gnu.org/gnu/ncurses/ncurses-6.0.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/ncurses/ncurses-6.0.tar.gz.sig",
+    "relnotes": "http://www.gnu.org/software/ncurses/#h2-release-notes",
+    "changelog": "http://invisible-island.net/ncurses/NEWS.html#t20150808"
+  }
+}
