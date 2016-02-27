@@ -1,0 +1,9 @@
+{
+  "1.17.1": {
+    "date": "2015-12-11",
+    "src": "http://ftp.gnu.org/gnu/wget/wget-1.17.1.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/wget/wget-1.17.1.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/wget.git/plain/NEWS?id=v1.17.1",
+    "changelog": "http://git.savannah.gnu.org/cgit/wget.git/log/?id=v1.17.1"
+  }
+}
