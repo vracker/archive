@@ -1,0 +1,9 @@
+{
+  "3.2": {
+    "date": "2014-07-28",
+    "src": "http://ftp.gnu.org/gnu/parted/parted-3.2.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/parted/parted-3.2.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/parted.git/plain/NEWS?id=v3.2",
+    "changelog": "http://git.savannah.gnu.org/cgit/parted.git/log/?id=v3.2"
+  }
+}
