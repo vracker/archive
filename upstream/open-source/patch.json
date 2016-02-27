@@ -1,0 +1,9 @@
+{
+  "2.7.5": {
+    "date": "2015-03-06",
+    "src": "http://ftp.gnu.org/gnu/patch/patch-2.7.5.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/patch/patch-2.7.5.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/patch.git/plain/NEWS?id=v2.7.5",
+    "changelog": "http://git.savannah.gnu.org/cgit/patch.git/log/?id=v2.7.5"
+  }
+}
