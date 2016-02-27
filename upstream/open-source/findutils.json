@@ -1,0 +1,9 @@
+{
+  "4.6.0": {
+    "date": "2015-12-28",
+    "src": "http://ftp.gnu.org/gnu/findutils/findutils-4.6.0.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/findutils/findutils-4.6.0.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/findutils.git/plain/NEWS?id=v4.6.0",
+    "changelog": "http://git.savannah.gnu.org/cgit/findutils.git/log/?id=v4.6.0"
+  }
+}
