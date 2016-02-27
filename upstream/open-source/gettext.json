@@ -1,0 +1,9 @@
+{
+  "0.19.7": {
+    "date": "2015-12-27",
+    "src": "http://ftp.gnu.org/gnu/gettext/gettext-0.19.7.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/gettext/gettext-0.19.7.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/gettext.git/plain/NEWS?id=v0.19.7",
+    "changelog": "http://git.savannah.gnu.org/cgit/gettext.git/log/?id=v0.19.7"
+  }
+}
