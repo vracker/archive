@@ -1,0 +1,9 @@
+{
+  "4.7": {
+    "date": "2015-09-14",
+    "src": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.7.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.7.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/libtasn1.git/plain/NEWS?id=libtasn1_4.7",
+    "changelog": "http://git.savannah.gnu.org/cgit/libtasn1.git/log/?id=libtasn1_4.7"
+  }
+}
