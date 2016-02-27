@@ -1,0 +1,9 @@
+{
+  "4.1": {
+    "date": "2014-10-05",
+    "src": "http://ftp.gnu.org/gnu/make/make-4.1.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/make/make-4.1.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/make.git/plain/NEWS?id=4.1",
+    "changelog": "http://git.savannah.gnu.org/cgit/make.git/log/?id=4.1"
+  }
+}
