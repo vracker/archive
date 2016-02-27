@@ -1,0 +1,9 @@
+{
+  "2.69": {
+    "date": "2012-04-24",
+    "src": "http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/autoconf.git/plain/NEWS?id=v2.69",
+    "changelog": "http://git.savannah.gnu.org/cgit/autoconf.git/log/?id=v2.69"
+  }
+}
