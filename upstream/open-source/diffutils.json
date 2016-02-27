@@ -1,0 +1,9 @@
+{
+  "3.3": {
+    "date": "2013-03-24",
+    "src": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.3.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.3.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/diffutils.git/plain/NEWS?id=v3.3",
+    "changelog": "http://git.savannah.gnu.org/cgit/diffutils.git/log/?id=v3.3"
+  }
+}
