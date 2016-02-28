@@ -1,0 +1,9 @@
+{
+  "2.12": {
+    "date": "2015-09-12",
+    "src": "http://ftp.gnu.org/gnu/cpio/cpio-2.12.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/cpio/cpio-2.12.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/cpio.git/plain/NEWS?id=release_2_12",
+    "changelog": "http://git.savannah.gnu.org/cgit/cpio.git/log/?id=release_2_12"
+  }
+}
