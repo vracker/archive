@@ -1,9 +1,9 @@
 {
-  "2.23": {
-    "date": "2016-02-04",
-    "src": "http://ftp.gnu.org/gnu/grep/grep-2.23.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/grep/grep-2.23.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/grep.git/plain/NEWS?id=v2.23",
-    "changelog": "http://git.savannah.gnu.org/cgit/grep.git/log/?id=v2.23"
+  "2.24": {
+    "date": "2016-03-11",
+    "src": "http://ftp.gnu.org/gnu/grep/grep-2.24.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/grep/grep-2.24.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/grep.git/plain/NEWS?id=v2.24",
+    "changelog": "http://git.savannah.gnu.org/cgit/grep.git/log/?id=v2.24"
   }
 }
