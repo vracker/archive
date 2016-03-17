@@ -20,18 +20,18 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.3.6",
     "stable": true
   },
-  "4.1.19": {
-    "date": "2016-03-04",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.19.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.19.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.19",
+  "4.1.20": {
+    "date": "2016-03-17",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.20.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.20.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.20",
     "stable": true
   },
-  "3.18.28": {
-    "date": "2016-03-04",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.28.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.28.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.28",
+  "3.18.29": {
+    "date": "2016-03-17",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.29.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.29.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.29",
     "stable": true
   },
   "3.14.65": {
