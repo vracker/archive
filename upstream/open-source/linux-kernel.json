@@ -13,13 +13,6 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.6",
     "stable": true
   },
-  "4.3.6": {
-    "date": "2016-02-19",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.3.6.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.3.6.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.3.6",
-    "stable": true
-  },
   "4.1.20": {
     "date": "2016-03-17",
     "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.20.tar.xz",
@@ -55,11 +48,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.10.101",
     "stable": true
   },
-  "3.4.110": {
-    "date": "2015-10-22",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.4.110.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.4.110.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.4.110",
+  "3.4.111": {
+    "date": "2016-03-21",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.4.111.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.4.111.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.4.111",
     "stable": true
   },
   "3.2.78": {
