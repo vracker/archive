@@ -1,4 +1,11 @@
 {
+  "4.6-rc1": {
+    "date": "2016-03-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc1.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc1.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6-rc1",
+    "stable": false
+  },
   "4.5": {
     "date": "2016-03-14",
     "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.tar.xz",
