@@ -1,9 +1,9 @@
 {
-  "2.9": {
-    "date": "2015-10-09",
-    "src": "https://sourceware.org/systemtap/ftp/releases/systemtap-2.9.tar.gz",
-    "src_sign": "https://sourceware.org/systemtap/ftp/releases/systemtap-2.9.tar.gz.asc",
-    "relnotes": "https://sourceware.org/git/?p=systemtap.git;a=blob_plain;f=NEWS;hb=refs/tags/release-2.9",
-    "changelog": "https://sourceware.org/git/?p=systemtap.git;a=shortlog;h=refs/tags/release-2.9"
+  "3.0": {
+    "date": "2016-03-28",
+    "src": "https://sourceware.org/systemtap/ftp/releases/systemtap-3.0.tar.gz",
+    "src_sign": "https://sourceware.org/systemtap/ftp/releases/systemtap-3.0.tar.gz.asc",
+    "relnotes": "https://sourceware.org/git/?p=systemtap.git;a=blob_plain;f=NEWS;hb=refs/tags/release-3.0",
+    "changelog": "https://sourceware.org/git/?p=systemtap.git;a=shortlog;h=refs/tags/release-3.0"
   }
 }
