@@ -1,9 +1,9 @@
 {
-  "4.6-rc2": {
-    "date": "2016-04-03",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc2.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc2.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6-rc2",
+  "4.6-rc3": {
+    "date": "2016-04-11",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc3.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc3.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6-rc3",
     "stable": false
   },
   "4.5": {
@@ -67,13 +67,6 @@
     "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.79.tar.xz",
     "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.79.tar.sign",
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.2.79",
-    "stable": true
-  },
-  "2.6.32.71": {
-    "date": "2016-03-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.71.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.71.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v2.6.32.71",
     "stable": true
   }
 }
