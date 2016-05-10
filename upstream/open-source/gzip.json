@@ -1,9 +1,9 @@
 {
-  "1.7": {
-    "date": "2016-03-28",
-    "src": "http://ftp.gnu.org/gnu/gzip/gzip-1.7.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/gzip/gzip-1.7.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/gzip.git/plain/NEWS?id=v1.7",
-    "changelog": "http://git.savannah.gnu.org/cgit/gzip.git/log/?id=v1.7"
+  "1.8": {
+    "date": "2016-04-26",
+    "src": "http://ftp.gnu.org/gnu/gzip/gzip-1.8.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/gzip/gzip-1.8.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/gzip.git/plain/NEWS?id=v1.8",
+    "changelog": "http://git.savannah.gnu.org/cgit/gzip.git/log/?id=v1.8"
   }
 }
