@@ -1,10 +1,10 @@
 {
-  "4.6-rc7": {
-    "date": "2016-05-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc7.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.6-rc7.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6-rc7",
-    "stable": false
+  "4.6": {
+    "date": "2016-05-15",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6",
+    "stable": true
   },
   "4.5.4": {
     "date": "2016-05-11",
