@@ -1,9 +1,9 @@
 {
-  "7.11": {
-    "date": "2016-02-24",
-    "src": "http://ftp.gnu.org/gnu/gdb/gdb-7.11.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/gdb/gdb-7.11.tar.xz.sig",
-    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=gdb/NEWS;hb=refs/tags/gdb-7.11-release",
-    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/gdb-7.11-release"
+  "7.11.1": {
+    "date": "2016-05-31",
+    "src": "http://ftp.gnu.org/gnu/gdb/gdb-7.11.1.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/gdb/gdb-7.11.1.tar.xz.sig",
+    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=gdb/NEWS;hb=refs/tags/gdb-7.11.1-release",
+    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/gdb-7.11.1-release"
   }
 }
