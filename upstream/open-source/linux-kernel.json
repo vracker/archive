@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.7-rc1",
     "stable": false
   },
-  "4.6": {
-    "date": "2016-05-15",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.6",
+  "4.6.1": {
+    "date": "2016-06-01",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.1.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.1.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.6.1",
     "stable": true
   },
-  "4.5.5": {
-    "date": "2016-05-19",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.5.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.5.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.5.5",
+  "4.5.6": {
+    "date": "2016-06-01",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.6.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.6.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.5.6",
     "stable": true
   },
-  "4.4.11": {
-    "date": "2016-05-19",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.11.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.11.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.11",
+  "4.4.12": {
+    "date": "2016-06-01",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.12.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.12.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.12",
     "stable": true
   },
   "4.1.25": {
@@ -48,11 +48,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.16.35",
     "stable": true
   },
-  "3.14.70": {
-    "date": "2016-05-19",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.14.70.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.14.70.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.14.70",
+  "3.14.71": {
+    "date": "2016-06-01",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.14.71.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.14.71.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.14.71",
     "stable": true
   },
   "3.12.60": {
