@@ -1,9 +1,9 @@
 {
-  "4.2": {
-    "date": "2016-05-22",
-    "src": "http://ftp.gnu.org/gnu/make/make-4.2.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/make/make-4.2.tar.gz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/make.git/plain/NEWS?id=4.2",
-    "changelog": "http://git.savannah.gnu.org/cgit/make.git/log/?id=4.2"
+  "4.2.1": {
+    "date": "2016-06-10",
+    "src": "http://ftp.gnu.org/gnu/make/make-4.2.1.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/make/make-4.2.1.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/make.git/plain/NEWS?id=4.2.1",
+    "changelog": "http://git.savannah.gnu.org/cgit/make.git/log/?id=4.2.1"
   }
 }
