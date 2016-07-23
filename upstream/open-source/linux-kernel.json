@@ -55,11 +55,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.14.73",
     "stable": true
   },
-  "3.12.61": {
-    "date": "2016-06-20",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.61.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.61.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.61",
+  "3.12.62": {
+    "date": "2016-07-21",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.62.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.62.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.62",
     "stable": true
   },
   "3.10.102": {
