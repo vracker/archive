@@ -1,9 +1,9 @@
 {
-  "4.8": {
-    "date": "2016-04-11",
-    "src": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.8.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.8.tar.gz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/libtasn1.git/plain/NEWS?id=libtasn1_4_8",
-    "changelog": "http://git.savannah.gnu.org/cgit/libtasn1.git/log/?id=libtasn1_4_8"
+  "4.9": {
+    "date": "2016-07-25",
+    "src": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.9.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/libtasn1/libtasn1-4.9.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/libtasn1.git/plain/NEWS?id=libtasn1_4_9",
+    "changelog": "http://git.savannah.gnu.org/cgit/libtasn1.git/log/?id=libtasn1_4_9"
   }
 }
