@@ -13,13 +13,6 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.6.5",
     "stable": true
   },
-  "4.5.7": {
-    "date": "2016-06-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.7.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.7.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.5.7",
-    "stable": true
-  },
   "4.4.16": {
     "date": "2016-07-27",
     "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.16.tar.xz",
