@@ -1,0 +1,9 @@
+{
+  "0.29.1": {
+    "date": "2016-03-01",
+    "src": "https://pkg-config.freedesktop.org/releases/pkg-config-0.29.1.tar.gz",
+    "src_sign": "https://pkg-config.freedesktop.org/releases/pkg-config-0.29.1.tar.gz.asc",
+    "relnotes": "https://lists.freedesktop.org/archives/pkg-config/2016-March/001043.html",
+    "changelog": "https://lists.freedesktop.org/archives/pkg-config/2016-March/001043.html"
+  }
+}
