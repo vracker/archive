@@ -1,9 +1,9 @@
 {
-  "3.4": {
-    "date": "2016-08-08",
-    "src": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.4.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.4.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/diffutils.git/plain/NEWS?id=v3.4",
-    "changelog": "http://git.savannah.gnu.org/cgit/diffutils.git/log/?id=v3.4"
+  "3.5": {
+    "date": "2016-08-21",
+    "src": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.5.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/diffutils/diffutils-3.5.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/diffutils.git/plain/NEWS?id=v3.5",
+    "changelog": "http://git.savannah.gnu.org/cgit/diffutils.git/log/?id=v3.5"
   }
 }
