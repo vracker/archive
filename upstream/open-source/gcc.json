@@ -1,8 +1,8 @@
 {
-  "6.1.0": {
-    "date": "2016-04-27",
-    "src": "http://ftp.gnu.org/gnu/gcc/gcc-6.1.0/gcc-6.1.0.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/gcc/gcc-6.1.0/gcc-6.1.0.tar.gz.sig",
-    "relnotes": "https://gcc.gnu.org/gcc-6/changes.html#6.1"
+  "6.2.0": {
+    "date": "2016-08-22",
+    "src": "http://ftp.gnu.org/gnu/gcc/gcc-6.2.0/gcc-6.2.0.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/gcc/gcc-6.2.0/gcc-6.2.0.tar.gz.sig",
+    "relnotes": "https://gcc.gnu.org/gcc-6/changes.html#6.2"
   }
 }
