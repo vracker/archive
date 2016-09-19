@@ -1,9 +1,9 @@
 {
-  "4.8-rc6": {
-    "date": "2016-09-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc6.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc6.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.8-rc6",
+  "4.8-rc7": {
+    "date": "2016-09-19",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc7.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc7.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.8-rc7",
     "stable": false
   },
   "4.7.4": {
