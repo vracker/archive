@@ -1,10 +1,10 @@
 {
-  "4.8-rc8": {
-    "date": "2016-09-26",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc8.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.8-rc8.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.8-rc8",
-    "stable": false
+  "4.8": {
+    "date": "2016-10-02",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.8",
+    "stable": true
   },
   "4.7.6": {
     "date": "2016-09-30",
@@ -48,11 +48,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.14.79",
     "stable": true
   },
-  "3.12.63": {
-    "date": "2016-09-06",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.63.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.63.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.63",
+  "3.12.64": {
+    "date": "2016-10-03",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.64.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.64.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.64",
     "stable": true
   },
   "3.10.103": {
