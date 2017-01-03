@@ -1,9 +1,9 @@
 {
-  "1.1.15": {
-    "date": "2016-07-05",
-    "src": "http://www.musl-libc.org/releases/musl-1.1.15.tar.gz",
-    "src_sign": "http://www.musl-libc.org/releases/musl-1.1.15.tar.gz.asc",
-    "relnotes": "http://git.musl-libc.org/cgit/musl/plain/WHATSNEW?h=v1.1.15",
-    "changelog": "http://git.musl-libc.org/cgit/musl/log/?h=v1.1.15"
+  "1.1.16": {
+    "date": "2016-12-31",
+    "src": "http://www.musl-libc.org/releases/musl-1.1.16.tar.gz",
+    "src_sign": "http://www.musl-libc.org/releases/musl-1.1.16.tar.gz.asc",
+    "relnotes": "http://git.musl-libc.org/cgit/musl/plain/WHATSNEW?h=v1.1.16",
+    "changelog": "http://git.musl-libc.org/cgit/musl/log/?h=v1.1.16"
   }
 }
