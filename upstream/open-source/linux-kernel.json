@@ -1,4 +1,11 @@
 {
+  "4.10-rc2": {
+    "date": "2017-01-01",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc2.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc2.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc2",
+    "stable": false
+  },
   "4.9": {
     "date": "2016-12-11",
     "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.tar.xz",
@@ -6,32 +13,32 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.9",
     "stable": true
   },
-  "4.8.14": {
-    "date": "2016-12-10",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.14.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.14.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.8.14",
+  "4.8.15": {
+    "date": "2016-12-15",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.15.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.8.15.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.8.15",
     "stable": true
   },
-  "4.4.38": {
-    "date": "2016-12-10",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.38.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.38.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.38",
+  "4.4.39": {
+    "date": "2016-12-15",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.39.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.39.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.39",
     "stable": true
   },
-  "4.1.36": {
-    "date": "2016-11-29",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.36.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.36.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.36",
+  "4.1.37": {
+    "date": "2016-12-24",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.37.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.37.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.37",
     "stable": true
   },
-  "3.18.45": {
-    "date": "2016-11-30",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.45.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.45.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.45",
+  "3.18.46": {
+    "date": "2016-12-24",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.46.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.46.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.46",
     "stable": true
   },
   "3.16.39": {
@@ -41,11 +48,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.16.39",
     "stable": true
   },
-  "3.12.68": {
-    "date": "2016-11-29",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.68.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.68.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.68",
+  "3.12.69": {
+    "date": "2016-12-17",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.69.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.69.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.69",
     "stable": true
   },
   "3.10.104": {
