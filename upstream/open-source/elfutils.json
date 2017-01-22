@@ -1,8 +1,8 @@
 {
   "0.168": {
     "date": "2016-12-28",
-    "src": "https://fedorahosted.org/releases/e/l/elfutils/0.168/elfutils-0.168.tar.bz2",
-    "src_sign": "https://fedorahosted.org/releases/e/l/elfutils/0.168/elfutils-0.168.tar.bz2.sig",
+    "src": "https://sourceware.org/elfutils/ftp/0.168/elfutils-0.168.tar.bz2",
+    "src_sign": "https://sourceware.org/elfutils/ftp/0.168/elfutils-0.168.tar.bz2.sig",
     "relnotes": "https://git.fedorahosted.org/cgit/elfutils.git/plain/NEWS?h=elfutils-0.168",
     "changelog": "https://git.fedorahosted.org/cgit/elfutils.git/log/?h=elfutils-0.168"
   }
