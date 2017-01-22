@@ -1,9 +1,9 @@
 {
-  "4.10-rc4": {
-    "date": "2017-01-16",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc4.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc4.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc4",
+  "4.10-rc5": {
+    "date": "2017-01-22",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc5.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc5.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc5",
     "stable": false
   },
   "4.9.5": {
