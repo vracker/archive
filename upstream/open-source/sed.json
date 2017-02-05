@@ -1,9 +1,9 @@
 {
-  "4.3": {
-    "date": "2017-01-04",
-    "src": "http://ftp.gnu.org/gnu/sed/sed-4.3.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/sed/sed-4.3.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/sed.git/plain/NEWS?id=v4.3",
-    "changelog": "http://git.savannah.gnu.org/cgit/sed.git/log/?id=v4.3"
+  "4.4": {
+    "date": "2017-02-03",
+    "src": "http://ftp.gnu.org/gnu/sed/sed-4.4.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/sed/sed-4.4.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/sed.git/plain/NEWS?id=v4.4",
+    "changelog": "http://git.savannah.gnu.org/cgit/sed.git/log/?id=v4.4"
   }
 }
