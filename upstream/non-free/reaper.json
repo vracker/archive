@@ -1,11 +1,11 @@
 {
-  "5.32": {
-    "date": "2017-01-17",
+  "5.33": {
+    "date": "2017-02-06",
     "bins": [
-      "http://reaper.fm/files/5.x/reaper532-install.exe",
-      "http://reaper.fm/files/5.x/reaper532_x64-install.exe",
-      "http://reaper.fm/files/5.x/reaper532_i386.dmg",
-      "http://reaper.fm/files/5.x/reaper532_x86_64.dmg"
+      "http://reaper.fm/files/5.x/reaper533-install.exe",
+      "http://reaper.fm/files/5.x/reaper533_x64-install.exe",
+      "http://reaper.fm/files/5.x/reaper533_i386.dmg",
+      "http://reaper.fm/files/5.x/reaper533_x86_64.dmg"
     ],
     "changelog": "http://reaper.fm/whatsnew.txt"
   }
