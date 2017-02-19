@@ -1,23 +1,23 @@
 {
-  "4.10-rc7": {
-    "date": "2017-02-05",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc7.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc7.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc7",
+  "4.10-rc8": {
+    "date": "2017-02-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc8.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc8.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc8",
     "stable": false
   },
-  "4.9.9": {
-    "date": "2017-02-09",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.9.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.9.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.9",
+  "4.9.11": {
+    "date": "2017-02-18",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.11.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.11.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.11",
     "stable": true
   },
-  "4.4.48": {
-    "date": "2017-02-09",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.48.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.48.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.48",
+  "4.4.50": {
+    "date": "2017-02-18",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.50.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.50.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.50",
     "stable": true
   },
   "4.1.38": {
