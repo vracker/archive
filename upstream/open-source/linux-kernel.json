@@ -1,23 +1,30 @@
 {
-  "4.10-rc8": {
-    "date": "2017-02-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc8.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.10-rc8.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10-rc8",
-    "stable": false
-  },
-  "4.9.11": {
-    "date": "2017-02-18",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.11.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.11.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.11",
+  "4.10": {
+    "date": "2017-02-19",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.10",
     "stable": true
   },
-  "4.4.50": {
-    "date": "2017-02-18",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.50.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.50.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.50",
+  "4.10.1": {
+    "date": "2017-02-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.1.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.1.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.1",
+    "stable": true
+  },
+  "4.9.13": {
+    "date": "2017-02-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.13.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.13.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.13",
+    "stable": true
+  },
+  "4.4.52": {
+    "date": "2017-02-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.52.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.52.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.52",
     "stable": true
   },
   "4.1.38": {
@@ -34,11 +41,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.48",
     "stable": true
   },
-  "3.16.39": {
-    "date": "2016-11-20",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.39.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.39.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.16.39",
+  "3.16.41": {
+    "date": "2017-02-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.41.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.41.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.16.41",
     "stable": true
   },
   "3.12.70": {
@@ -62,11 +69,11 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.4.113",
     "stable": true
   },
-  "3.2.84": {
-    "date": "2016-11-20",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.84.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.84.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.2.84",
+  "3.2.86": {
+    "date": "2017-02-26",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.86.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.2.86.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.2.86",
     "stable": true
   }
 }
