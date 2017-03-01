@@ -1,9 +1,9 @@
 {
-  "2.29.1": {
-    "date": "2017-01-20",
-    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29//util-linux-2.29.1.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/util-linux-2.29.1.tar.sign",
-    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/v2.29.1-ReleaseNotes",
-    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/v2.29.1-ChangeLog"
+  "2.29.2": {
+    "date": "2017-02-22",
+    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29//util-linux-2.29.2.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/util-linux-2.29.2.tar.sign",
+    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/v2.29.2-ReleaseNotes",
+    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.29/v2.29.2-ChangeLog"
   }
 }
