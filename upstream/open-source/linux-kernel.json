@@ -34,13 +34,6 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.38",
     "stable": true
   },
-  "3.18.48": {
-    "date": "2017-02-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.48.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.48.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.48",
-    "stable": true
-  },
   "3.16.41": {
     "date": "2017-02-26",
     "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.41.tar.xz",
