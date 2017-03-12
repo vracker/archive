@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc1",
     "stable": false
   },
-  "4.10.1": {
-    "date": "2017-02-26",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.1.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.1.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.1",
+  "4.10.2": {
+    "date": "2017-03-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.2.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.2.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.2",
     "stable": true
   },
-  "4.9.13": {
-    "date": "2017-02-26",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.13.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.13.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.13",
+  "4.9.14": {
+    "date": "2017-03-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.14.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.14.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.14",
     "stable": true
   },
-  "4.4.52": {
-    "date": "2017-02-26",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.52.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.52.tar.sign",
-    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.52",
+  "4.4.53": {
+    "date": "2017-03-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.53.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.53.tar.sign",
+    "changelog": "https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.53",
     "stable": true
   },
   "4.1.38": {
