@@ -1,9 +1,9 @@
 {
-  "4.11-rc2": {
-    "date": "2017-03-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc2.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc2.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc2",
+  "4.11-rc3": {
+    "date": "2017-03-20",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc3.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc3.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc3",
     "stable": false
   },
   "4.10.4": {
