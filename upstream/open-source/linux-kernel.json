@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc6",
     "stable": false
   },
-  "4.10.9": {
-    "date": "2017-04-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.9.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.9.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.9",
+  "4.10.10": {
+    "date": "2017-04-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.10.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.10.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.10",
     "stable": true
   },
-  "4.9.21": {
-    "date": "2017-04-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.21.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.21.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.21",
+  "4.9.22": {
+    "date": "2017-04-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.22.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.22.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.22",
     "stable": true
   },
-  "4.4.60": {
-    "date": "2017-04-08",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.60.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.60.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.60",
+  "4.4.61": {
+    "date": "2017-04-12",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.61.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.61.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.61",
     "stable": true
   },
   "4.1.39": {
