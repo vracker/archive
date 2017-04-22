@@ -1,30 +1,30 @@
 {
-  "4.11-rc6": {
-    "date": "2017-04-09",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc6.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc6.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc6",
+  "4.11-rc7": {
+    "date": "2017-04-16",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc7.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc7.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc7",
     "stable": false
   },
-  "4.10.10": {
-    "date": "2017-04-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.10.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.10.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.10",
+  "4.10.12": {
+    "date": "2017-04-21",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.12.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.12.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.12",
     "stable": true
   },
-  "4.9.22": {
-    "date": "2017-04-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.22.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.22.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.22",
+  "4.9.24": {
+    "date": "2017-04-21",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.24.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.24.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.24",
     "stable": true
   },
-  "4.4.61": {
-    "date": "2017-04-12",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.61.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.61.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.61",
+  "4.4.63": {
+    "date": "2017-04-21",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.63.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.63.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.63",
     "stable": true
   },
   "4.1.39": {
@@ -34,6 +34,13 @@
     "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.39",
     "stable": true
   },
+  "3.18.49": {
+    "date": "2017-04-18",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.49.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.49.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.49",
+    "stable": true
+  },
   "3.16.43": {
     "date": "2017-04-04",
     "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.16.43.tar.xz",
@@ -41,11 +48,11 @@
     "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.16.43",
     "stable": true
   },
-  "3.12.72": {
-    "date": "2017-03-16",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.72.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.72.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.72",
+  "3.12.73": {
+    "date": "2017-04-13",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.73.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.12.73.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.12.73",
     "stable": true
   },
   "3.10.105": {
