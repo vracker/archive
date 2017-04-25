@@ -1,9 +1,9 @@
 {
-  "4.11-rc7": {
-    "date": "2017-04-16",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc7.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc7.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc7",
+  "4.11-rc8": {
+    "date": "2017-04-23",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc8.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc8.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc8",
     "stable": false
   },
   "4.10.12": {
@@ -34,11 +34,11 @@
     "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.1.39",
     "stable": true
   },
-  "3.18.49": {
-    "date": "2017-04-18",
-    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.49.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.49.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.49",
+  "3.18.50": {
+    "date": "2017-04-22",
+    "src": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.50.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.18.50.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v3.18.50",
     "stable": true
   },
   "3.16.43": {
