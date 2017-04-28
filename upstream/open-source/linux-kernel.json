@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?id=refs/tags/v4.11-rc8",
     "stable": false
   },
-  "4.10.12": {
-    "date": "2017-04-21",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.12.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.12.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.12",
+  "4.10.13": {
+    "date": "2017-04-27",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.13.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.10.13.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.10.13",
     "stable": true
   },
-  "4.9.24": {
-    "date": "2017-04-21",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.24.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.24.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.24",
+  "4.9.25": {
+    "date": "2017-04-27",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.25.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.25.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.9.25",
     "stable": true
   },
-  "4.4.63": {
-    "date": "2017-04-21",
-    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.63.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.63.tar.sign",
-    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.63",
+  "4.4.64": {
+    "date": "2017-04-27",
+    "src": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.64.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.64.tar.sign",
+    "changelog": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v4.4.64",
     "stable": true
   },
   "4.1.39": {
