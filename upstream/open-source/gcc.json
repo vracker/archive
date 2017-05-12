@@ -1,4 +1,10 @@
 {
+  "7.1.0": {
+    "date": "2017-05-02",
+    "src": "http://ftp.gnu.org/gnu/gcc/gcc-7.1.0/gcc-7.1.0.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/gcc/gcc-7.1.0/gcc-7.1.0.tar.gz.sig",
+    "relnotes": "https://gcc.gnu.org/gcc-7/changes.html#7.1"
+  },
   "6.3.0": {
     "date": "2016-12-21",
     "src": "http://ftp.gnu.org/gnu/gcc/gcc-6.3.0/gcc-6.3.0.tar.gz",
