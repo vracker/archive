@@ -1,12 +1,12 @@
 {
   "8.6.6": {
     "date": "2016-07-27",
-    "src": "http://prdownloads.sourceforge.net/tcl/tcl8.6.6-src.tar.gz",
+    "src": "https://prdownloads.sourceforge.net/tcl/tcl8.6.6-src.tar.gz",
     "changelog": "http://core.tcl.tk/tcl/artifact?filename=changes&ci=core-8-6-6"
   },
   "8.5.19": {
     "date": "2016-02-12",
-    "src": "http://prdownloads.sourceforge.net/tcl/tcl8.5.19-src.tar.gz",
+    "src": "https://prdownloads.sourceforge.net/tcl/tcl8.5.19-src.tar.gz",
     "changelog": "http://core.tcl.tk/tcl/artifact?filename=changes&ci=core-8-5-19"
   }
 }
