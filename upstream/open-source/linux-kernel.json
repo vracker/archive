@@ -1,9 +1,9 @@
 {
-  "4.12-rc3": {
-    "date": "2017-05-29",
-    "src": "https://git.kernel.org/torvalds/t/linux-4.12-rc3.tar.gz",
+  "4.12-rc4": {
+    "date": "2017-06-04",
+    "src": "https://git.kernel.org/torvalds/t/linux-4.12-rc4.tar.gz",
     "src_sign": null,
-    "changelog": "https://git.kernel.org/torvalds/h/v4.12-rc3",
+    "changelog": "https://git.kernel.org/torvalds/h/v4.12-rc4",
     "stable": false
   },
   "4.11.3": {
