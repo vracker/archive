@@ -48,11 +48,11 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.18.55",
     "stable": true
   },
-  "3.16.43": {
-    "date": "2017-04-04",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.43.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.43.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.16.43",
+  "3.16.44": {
+    "date": "2017-06-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.44.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.44.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.16.44",
     "stable": true
   },
   "3.12.74": {
@@ -76,11 +76,11 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.4.113",
     "stable": true
   },
-  "3.2.88": {
-    "date": "2017-04-04",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.88.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.88.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.2.88",
+  "3.2.89": {
+    "date": "2017-06-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.89.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.89.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.2.89",
     "stable": true
   }
 }
