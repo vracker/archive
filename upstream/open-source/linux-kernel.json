@@ -55,13 +55,6 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.16.44",
     "stable": true
   },
-  "3.12.74": {
-    "date": "2017-05-09",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.12.74.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.12.74.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.12.74",
-    "stable": true
-  },
   "3.10.105": {
     "date": "2017-02-10",
     "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.10.105.tar.xz",
