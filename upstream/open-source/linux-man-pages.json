@@ -1,9 +1,9 @@
 {
-  "4.11": {
-    "date": "2017-05-03",
-    "src": "https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.11.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.11.tar.sign",
-    "relnotes": "https://git.kernel.org/cgit/docs/man-pages/man-pages.git/plain/Changes?h=man-pages-4.11",
-    "changelog": "https://git.kernel.org/cgit/docs/man-pages/man-pages.git/log/?h=man-pages-4.11"
+  "4.12": {
+    "date": "2017-07-21",
+    "src": "https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.12.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.12.tar.sign",
+    "relnotes": "https://git.kernel.org/cgit/docs/man-pages/man-pages.git/plain/Changes?h=man-pages-4.12",
+    "changelog": "https://git.kernel.org/cgit/docs/man-pages/man-pages.git/log/?h=man-pages-4.12"
   }
 }
