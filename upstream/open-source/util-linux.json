@@ -1,9 +1,9 @@
 {
-  "2.30": {
-    "date": "2017-06-02",
-    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30//util-linux-2.30.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/util-linux-2.30.tar.sign",
-    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/v2.30-ReleaseNotes",
-    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/v2.30-ChangeLog"
+  "2.30.1": {
+    "date": "2017-07-20",
+    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30//util-linux-2.30.1.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/util-linux-2.30.1.tar.sign",
+    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/v2.30.1-ReleaseNotes",
+    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.30/v2.30.1-ChangeLog"
   }
 }
