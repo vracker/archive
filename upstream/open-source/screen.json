@@ -1,9 +1,9 @@
 {
-  "4.6.0": {
-    "date": "2017-06-28",
-    "src": "http://ftp.gnu.org/gnu/screen/screen-4.6.0.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/screen/screen-4.6.0.tar.gz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/screen.git/plain/src/ChangeLog?id=v.4.6.0",
-    "changelog": "http://git.savannah.gnu.org/cgit/screen.git/log/?id=v.4.6.0"
+  "4.6.1": {
+    "date": "2017-07-10",
+    "src": "http://ftp.gnu.org/gnu/screen/screen-4.6.1.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/screen/screen-4.6.1.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/screen.git/plain/src/ChangeLog?id=v.4.6.1",
+    "changelog": "http://git.savannah.gnu.org/cgit/screen.git/log/?id=v.4.6.1"
   }
 }
