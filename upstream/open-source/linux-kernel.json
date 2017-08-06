@@ -1,9 +1,9 @@
 {
-  "4.13-rc2": {
-    "date": "2017-07-23",
-    "src": "https://git.kernel.org/torvalds/t/linux-4.13-rc2.tar.gz",
+  "4.13-rc3": {
+    "date": "2017-07-30",
+    "src": "https://git.kernel.org/torvalds/t/linux-4.13-rc3.tar.gz",
     "src_sign": null,
-    "changelog": "https://git.kernel.org/torvalds/h/v4.13-rc2",
+    "changelog": "https://git.kernel.org/torvalds/h/v4.13-rc3",
     "stable": false
   },
   "4.12.4": {
@@ -34,11 +34,11 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.79",
     "stable": true
   },
-  "4.1.42": {
-    "date": "2017-06-29",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.1.42.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.1.42.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.1.42",
+  "4.1.43": {
+    "date": "2017-08-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.1.43.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.1.43.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.1.43",
     "stable": true
   },
   "3.18.63": {
