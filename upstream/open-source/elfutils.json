@@ -3,7 +3,7 @@
     "date": "2017-08-03",
     "src": "https://sourceware.org/elfutils/ftp/0.170/elfutils-0.170.tar.bz2",
     "src_sign": "https://sourceware.org/elfutils/ftp/0.170/elfutils-0.170.tar.bz2.sig",
-    "relnotes": "https://git.fedorahosted.org/cgit/elfutils.git/plain/NEWS?h=elfutils-0.170",
-    "changelog": "https://git.fedorahosted.org/cgit/elfutils.git/log/?h=elfutils-0.170"
+    "relnotes": "https://sourceware.org/git/?p=elfutils.git;a=blob_plain;f=NEWS;hb=refs/tags/elfutils-0.170",
+    "changelog": "https://sourceware.org/git/?p=elfutils.git;a=shortlog;h=refs/tags/elfutils-0.170"
   }
 }
