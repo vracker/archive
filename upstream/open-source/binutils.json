@@ -1,9 +1,9 @@
 {
-  "2.29": {
-    "date": "2017-07-24",
-    "src": "http://ftp.gnu.org/gnu/binutils/binutils-2.29.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/binutils/binutils-2.29.tar.xz.sig",
-    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=binutils/NEWS;hb=refs/tags/binutils-2_29",
-    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/binutils-2_29"
+  "2.29.1": {
+    "date": "2017-09-25",
+    "src": "http://ftp.gnu.org/gnu/binutils/binutils-2.29.1.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/binutils/binutils-2.29.1.tar.xz.sig",
+    "relnotes": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=binutils/NEWS;hb=refs/tags/binutils-2_29_1",
+    "changelog": "https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=shortlog;h=refs/tags/binutils-2_29_1"
   }
 }
