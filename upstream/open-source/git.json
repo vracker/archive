@@ -1,9 +1,9 @@
 {
-  "2.14.1": {
-    "date": "2017-08-10",
-    "src": "https://www.kernel.org/pub/software/scm/git/git-2.14.1.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/software/scm/git/git-2.14.1.tar.sign",
-    "relnotes": "https://git.kernel.org/cgit/git/git.git/plain/Documentation/RelNotes/2.14.1.txt",
-    "changelog": "https://git.kernel.org/cgit/git/git.git/log/?h=v2.14.1"
+  "2.14.2": {
+    "date": "2017-09-26",
+    "src": "https://www.kernel.org/pub/software/scm/git/git-2.14.2.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/software/scm/git/git-2.14.2.tar.sign",
+    "relnotes": "https://git.kernel.org/cgit/git/git.git/plain/Documentation/RelNotes/2.14.2.txt",
+    "changelog": "https://git.kernel.org/cgit/git/git.git/log/?h=v2.14.2"
   }
 }
