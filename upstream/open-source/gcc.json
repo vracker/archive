@@ -10,11 +10,5 @@
     "src": "http://ftp.gnu.org/gnu/gcc/gcc-6.4.0/gcc-6.4.0.tar.xz",
     "src_sign": "http://ftp.gnu.org/gnu/gcc/gcc-6.4.0/gcc-6.4.0.tar.xz.sig",
     "relnotes": "https://gcc.gnu.org/gcc-6/changes.html#6.4"
-  },
-  "5.4.0": {
-    "date": "2016-06-03",
-    "src": "http://ftp.gnu.org/gnu/gcc/gcc-5.4.0/gcc-5.4.0.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/gcc/gcc-5.4.0/gcc-5.4.0.tar.gz.sig",
-    "relnotes": "https://gcc.gnu.org/gcc-5/changes.html#5.4"
   }
 }
