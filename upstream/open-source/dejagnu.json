@@ -1,9 +1,9 @@
 {
-  "1.6": {
-    "date": "2016-04-15",
-    "src": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.tar.gz",
-    "src_sign": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.tar.gz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/dejagnu.git/plain/NEWS?id=dejagnu-1.6-release",
-    "changelog": "http://git.savannah.gnu.org/cgit/dejagnu.git/log/?id=dejagnu-1.6-release"
+  "1.6.1": {
+    "date": "2017-10-16",
+    "src": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.1.tar.gz",
+    "src_sign": "http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.1.tar.gz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/dejagnu.git/plain/NEWS?id=dejagnu-1.6.1-release",
+    "changelog": "http://git.savannah.gnu.org/cgit/dejagnu.git/log/?id=dejagnu-1.6.1-release"
   }
 }
