@@ -1,6 +1,6 @@
 {
-  "5.45": {
-    "date": "2010-11-09",
-    "src": "https://sourceforge.net/projects/expect/files/Expect/5.45/expect5.45.tar.gz"
+  "5.45.3": {
+    "date": "2017-10-13",
+    "src": "https://sourceforge.net/projects/expect/files/Expect/5.45.3/expect5.45.3.tar.gz"
   }
 }
