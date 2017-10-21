@@ -1,9 +1,9 @@
 {
-  "4.1.4": {
-    "date": "2016-08-25",
-    "src": "http://ftp.gnu.org/gnu/gawk/gawk-4.1.4.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/gawk/gawk-4.1.4.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/gawk.git/plain/NEWS?id=gawk-4.1.4",
-    "changelog": "http://git.savannah.gnu.org/cgit/gawk.git/log/?id=gawk-4.1.4"
+  "4.2.0": {
+    "date": "2017-10-19",
+    "src": "http://ftp.gnu.org/gnu/gawk/gawk-4.2.0.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/gawk/gawk-4.2.0.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/gawk.git/plain/NEWS?id=gawk-4.2.0",
+    "changelog": "http://git.savannah.gnu.org/cgit/gawk.git/log/?id=gawk-4.2.0"
   }
 }
