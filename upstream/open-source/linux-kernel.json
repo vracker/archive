@@ -1,9 +1,9 @@
 {
-  "4.14-rc5": {
-    "date": "2017-10-16",
-    "src": "https://git.kernel.org/torvalds/t/linux-4.14-rc5.tar.gz",
+  "4.14-rc6": {
+    "date": "2017-10-23",
+    "src": "https://git.kernel.org/torvalds/t/linux-4.14-rc6.tar.gz",
     "src_sign": null,
-    "changelog": "https://git.kernel.org/torvalds/h/v4.14-rc5",
+    "changelog": "https://git.kernel.org/torvalds/h/v4.14-rc6",
     "stable": false
   },
   "4.13.9": {
