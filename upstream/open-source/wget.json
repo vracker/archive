@@ -1,9 +1,9 @@
 {
-  "1.19.1": {
-    "date": "2017-02-11",
-    "src": "http://ftp.gnu.org/gnu/wget/wget-1.19.1.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/wget/wget-1.19.1.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/wget.git/plain/NEWS?id=v1.19.1",
-    "changelog": "http://git.savannah.gnu.org/cgit/wget.git/log/?id=v1.19.1"
+  "1.19.2": {
+    "date": "2017-10-26",
+    "src": "http://ftp.gnu.org/gnu/wget/wget-1.19.2.tar.lz",
+    "src_sign": "http://ftp.gnu.org/gnu/wget/wget-1.19.2.tar.lz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/wget.git/plain/NEWS?id=v1.19.2",
+    "changelog": "http://git.savannah.gnu.org/cgit/wget.git/log/?id=v1.19.2"
   }
 }
