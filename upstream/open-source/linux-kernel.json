@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/torvalds/h/v4.14",
     "stable": true
   },
-  "4.13.13": {
-    "date": "2017-11-15",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.13.13.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.13.13.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.13.13",
+  "4.13.14": {
+    "date": "2017-11-18",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.13.14.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.13.14.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.13.14",
     "stable": true
   },
-  "4.9.62": {
-    "date": "2017-11-15",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.62.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.62.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.62",
+  "4.9.63": {
+    "date": "2017-11-18",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.63.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.63.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.63",
     "stable": true
   },
-  "4.4.98": {
-    "date": "2017-11-15",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.98.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.98.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.98",
+  "4.4.99": {
+    "date": "2017-11-18",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.99.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.99.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.99",
     "stable": true
   },
   "4.1.46": {
@@ -34,11 +34,11 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.1.46",
     "stable": true
   },
-  "3.18.81": {
-    "date": "2017-11-15",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.81.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.81.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.18.81",
+  "3.18.82": {
+    "date": "2017-11-18",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.82.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.82.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.18.82",
     "stable": true
   },
   "3.16.50": {
