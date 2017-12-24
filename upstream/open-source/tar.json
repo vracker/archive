@@ -1,9 +1,9 @@
 {
-  "1.29": {
-    "date": "2016-05-16",
-    "src": "http://ftp.gnu.org/gnu/tar/tar-1.29.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/tar/tar-1.29.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/tar.git/plain/NEWS?id=release_1_29",
-    "changelog": "http://git.savannah.gnu.org/cgit/tar.git/log/?id=release_1_29"
+  "1.30": {
+    "date": "2017-12-17",
+    "src": "http://ftp.gnu.org/gnu/tar/tar-1.30.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/tar/tar-1.30.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/tar.git/plain/NEWS?id=release_1_30",
+    "changelog": "http://git.savannah.gnu.org/cgit/tar.git/log/?id=release_1_30"
   }
 }
