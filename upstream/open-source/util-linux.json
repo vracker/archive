@@ -1,9 +1,9 @@
 {
-  "2.31": {
-    "date": "2017-10-19",
-    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31//util-linux-2.31.tar.xz",
-    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/util-linux-2.31.tar.sign",
-    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/v2.31-ReleaseNotes",
-    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/v2.31-ChangeLog"
+  "2.31.1": {
+    "date": "2017-12-19",
+    "src": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31//util-linux-2.31.1.tar.xz",
+    "src_sign": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/util-linux-2.31.1.tar.sign",
+    "relnotes": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/v2.31.1-ReleaseNotes",
+    "changelog": "https://www.kernel.org/pub/linux/utils/util-linux/v2.31/v2.31.1-ChangeLog"
   }
 }
