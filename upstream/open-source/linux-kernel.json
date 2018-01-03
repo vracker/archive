@@ -1,30 +1,30 @@
 {
-  "4.15-rc5": {
-    "date": "2017-12-24",
-    "src": "https://git.kernel.org/torvalds/t/linux-4.15-rc5.tar.gz",
+  "4.15-rc6": {
+    "date": "2017-12-31",
+    "src": "https://git.kernel.org/torvalds/t/linux-4.15-rc6.tar.gz",
     "src_sign": null,
-    "changelog": "https://git.kernel.org/torvalds/h/v4.15-rc5",
+    "changelog": "https://git.kernel.org/torvalds/h/v4.15-rc6",
     "stable": false
   },
-  "4.14.9": {
-    "date": "2017-12-25",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.9.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.9.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.14.9",
+  "4.14.11": {
+    "date": "2018-01-02",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.11.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.11.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.14.11",
     "stable": true
   },
-  "4.9.72": {
-    "date": "2017-12-25",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.72.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.72.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.72",
+  "4.9.74": {
+    "date": "2018-01-02",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.74.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.74.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.74",
     "stable": true
   },
-  "4.4.108": {
-    "date": "2017-12-25",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.108.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.108.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.108",
+  "4.4.109": {
+    "date": "2018-01-02",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.109.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.109.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.109",
     "stable": true
   },
   "4.1.48": {
@@ -34,25 +34,25 @@
     "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.1.48",
     "stable": true
   },
-  "3.18.90": {
-    "date": "2017-12-25",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.90.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.90.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.18.90",
+  "3.18.91": {
+    "date": "2018-01-02",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.91.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.18.91.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.18.91",
     "stable": true
   },
-  "3.16.51": {
-    "date": "2017-11-26",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.51.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.51.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.16.51",
+  "3.16.52": {
+    "date": "2018-01-01",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.52.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.16.52.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.16.52",
     "stable": true
   },
-  "3.2.96": {
-    "date": "2017-11-26",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.96.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.96.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.2.96",
+  "3.2.97": {
+    "date": "2018-01-01",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.97.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.2.97.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v3.2.97",
     "stable": true
   }
 }
