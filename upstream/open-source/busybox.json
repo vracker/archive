@@ -1,10 +1,10 @@
 {
-  "1.27.2": {
-    "date": "2017-08-17",
-    "src": "https://busybox.net/downloads/busybox-1.27.2.tar.bz2",
-    "src_sign": "https://busybox.net/downloads/busybox-1.27.2.tar.bz2.sign",
+  "1.28.0": {
+    "date": "2018-01-02",
+    "src": "https://busybox.net/downloads/busybox-1.28.0.tar.bz2",
+    "src_sign": "https://busybox.net/downloads/busybox-1.28.0.tar.bz2.sign",
     "relnotes": "https://busybox.net/",
-    "changelog": "https://git.busybox.net/busybox/log/?h=1_27_2",
-    "stable": true
+    "changelog": "https://git.busybox.net/busybox/log/?h=1_28_0",
+    "stable": false
   }
 }
