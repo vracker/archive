@@ -1,9 +1,9 @@
 {
-  "8.28": {
-    "date": "2017-09-01",
-    "src": "http://ftp.gnu.org/gnu/coreutils/coreutils-8.28.tar.xz",
-    "src_sign": "http://ftp.gnu.org/gnu/coreutils/coreutils-8.28.tar.xz.sig",
-    "relnotes": "http://git.savannah.gnu.org/cgit/coreutils.git/plain/NEWS?id=v8.28",
-    "changelog": "http://git.savannah.gnu.org/cgit/coreutils.git/log/?id=v8.28"
+  "8.29": {
+    "date": "2017-12-27",
+    "src": "http://ftp.gnu.org/gnu/coreutils/coreutils-8.29.tar.xz",
+    "src_sign": "http://ftp.gnu.org/gnu/coreutils/coreutils-8.29.tar.xz.sig",
+    "relnotes": "http://git.savannah.gnu.org/cgit/coreutils.git/plain/NEWS?id=v8.29",
+    "changelog": "http://git.savannah.gnu.org/cgit/coreutils.git/log/?id=v8.29"
   }
 }
