@@ -6,25 +6,25 @@
     "changelog": "https://git.kernel.org/torvalds/h/v4.15-rc6",
     "stable": false
   },
-  "4.14.11": {
-    "date": "2018-01-02",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.11.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.11.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.14.11",
+  "4.14.12": {
+    "date": "2018-01-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.12.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.14.12.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.14.12",
     "stable": true
   },
-  "4.9.74": {
-    "date": "2018-01-02",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.74.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.74.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.74",
+  "4.9.75": {
+    "date": "2018-01-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.75.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.75.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.9.75",
     "stable": true
   },
-  "4.4.109": {
-    "date": "2018-01-02",
-    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.109.tar.xz",
-    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.109.tar.sign",
-    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.109",
+  "4.4.110": {
+    "date": "2018-01-05",
+    "src": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.110.tar.xz",
+    "src_sign": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.110.tar.sign",
+    "changelog": "https://git.kernel.org/stable/linux-stable/h/v4.4.110",
     "stable": true
   },
   "4.1.48": {
